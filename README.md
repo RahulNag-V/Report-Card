@@ -1,4 +1,4 @@
-🎓 Report Card Web App 💻✨
+🎓 Report Card Web Page 💻✨
 A clean and responsive Report Card Generator built with HTML, CSS, and JavaScript. This web-based app lets you input student details and marks, then instantly calculates totals, percentages, and grades — all in the browser!
 
 <u>🚀 Features:</u>
